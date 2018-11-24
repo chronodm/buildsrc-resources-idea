@@ -1,0 +1,31 @@
+{
+  "t": {
+    "name": "voiceless alveolar stop",
+    "features": {
+      "cons": true,
+      "son": false,
+      "syl": false,
+      "labial": false,
+      "round": 0,
+      "coronal": true,
+      "ant": true,
+      "dist": false,
+      "dorsal": true,
+      "high": 0,
+      "low": 0,
+      "front": 0,
+      "back": 0,
+      "tense": 0,
+      "pharyngeal": false,
+      "ATR": 0,
+      "voice": false,
+      "SG": false,
+      "CG": false,
+      "cont": false,
+      "strident": false,
+      "lateral": false,
+      "del_rel": false,
+      "nasal": false
+    }
+  }
+}
